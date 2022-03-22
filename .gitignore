@@ -5,6 +5,9 @@
 #commit colab
 For_github_commit.ipynb
 
+##ex 폴더 무시
+ex/
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
